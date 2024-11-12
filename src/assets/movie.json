@@ -1,0 +1,133 @@
+[
+    {
+      "Title": "The Lion King",
+      "Year": "2019",
+      "Runtime": "118 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg",
+      "Description": "Simba, a young lion prince, is cast out of his pride by his evil uncle, who claims he killed his father. Simba, after being raised in a jungle, must embrace his destiny as the rightful king of the Pride Lands and defeat his uncle Scar.",
+      "Cast": [
+        "Donald Glover",
+        "Beyoncé",
+        "Seth Rogen",
+        "Chiwetel Ejiofor",
+        "James Earl Jones"
+      ],
+      "Director": "Jon Favreau",
+      "Genres": ["Animation", "Adventure", "Drama"],
+      "Language": "English",
+      "ProductionCompanies": ["Walt Disney Pictures", "Fairview Entertainment"],
+      "Awards": [
+        "Nominated for 2 Academy Awards",
+        "Golden Globe Award for Best Original Song"
+      ],
+      "Rating": {
+        "IMDb": "6.9/10",
+        "RottenTomatoes": "53%"
+      }
+    },
+    {
+      "Title": "Mowgli: Legend of the Jungle",
+      "Year": "2018",
+      "Runtime": "104 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg",
+      "Description": "The story of Mowgli, a young boy raised by wolves in the jungle of India, who is forced to leave after a dangerous tiger named Shere Khan threatens his life. Mowgli embarks on a journey of self-discovery, learning about humanity, while trying to avoid the dangers of the jungle.",
+      "Cast": [
+        "Rohan Chand",
+        "Christian Bale",
+        "Cate Blanchett",
+        "Benedict Cumberbatch",
+        "Matthew Rhys"
+      ],
+      "Director": "Andy Serkis",
+      "Genres": ["Adventure", "Drama", "Fantasy"],
+      "Language": "English",
+      "ProductionCompanies": ["Warner Bros.", "Netflix"],
+      "Awards": [
+        "Nominated for 1 BAFTA Award",
+        "Nominated for 2 Saturn Awards"
+      ],
+      "Rating": {
+        "IMDb": "6.6/10",
+        "RottenTomatoes": "56%"
+      }
+    },
+    {
+      "Title": "Doctor Strange",
+      "Year": "2016",
+      "Runtime": "115 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+      "Description": "Dr. Stephen Strange, a gifted neurosurgeon, loses the use of his hands in a car accident. Seeking a cure, he travels to Nepal where he learns the mystic arts from the Ancient One, discovering his true potential as a powerful sorcerer who must stop a dark force from destroying the world.",
+      "Cast": [
+        "Benedict Cumberbatch",
+        "Chiwetel Ejiofor",
+        "Rachel McAdams",
+        "Tilda Swinton",
+        "Mads Mikkelsen"
+      ],
+      "Director": "Scott Derrickson",
+      "Genres": ["Action", "Adventure", "Fantasy"],
+      "Language": "English",
+      "ProductionCompanies": ["Marvel Studios", "Walt Disney Studios Motion Pictures"],
+      "Awards": [
+        "Nominated for 1 Academy Award",
+        "Nominated for 2 Golden Globe Awards"
+      ],
+      "Rating": {
+        "IMDb": "7.5/10",
+        "RottenTomatoes": "89%"
+      }
+    },
+    {
+      "Title": "John Wick",
+      "Year": "2014",
+      "Runtime": "101 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+      "Description": "John Wick, a retired hitman, seeks vengeance against those who killed his beloved dog, a final gift from his deceased wife. In the process, he takes on the criminal underworld, seeking justice while using his unmatched combat skills.",
+      "Cast": [
+        "Keanu Reeves",
+        "Michael Nyqvist",
+        "Alfie Allen",
+        "Willem Dafoe",
+        "Adrienne Palicki"
+      ],
+      "Director": "Chad Stahelski",
+      "Genres": ["Action", "Crime", "Thriller"],
+      "Language": "English",
+      "ProductionCompanies": ["Summit Entertainment", "Lionsgate"],
+      "Awards": [
+        "Best Action Movie Award at Critics' Choice Awards",
+        "Nominated for 2 Saturn Awards"
+      ],
+      "Rating": {
+        "IMDb": "7.4/10",
+        "RottenTomatoes": "86%"
+      }
+    },
+    {
+      "Title": "The Notebook",
+      "Year": "2004",
+      "Runtime": "123 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTg3ZDI5MGYtNzI4Ni00YzY4LWI0ZDktZDlhZTcwYjlkYTIzXkEyXkFqcGdeQXVyNTMwODkwOQ@@._V1_SX300.jpg",
+      "Description": "In 1940s North Carolina, Noah Calhoun and Allie Nelson fall in love during the summer. Despite the obstacles of class and family opposition, their love endures. Decades later, Allie suffers from Alzheimer's, and Noah must bring her back to their past so they can relive their love story.",
+      "Cast": [
+        "Ryan Gosling",
+        "Rachel McAdams",
+        "James Garner",
+        "Gena Rowlands",
+        "Sam Shepard"
+      ],
+      "Director": "Nick Cassavetes",
+      "Genres": ["Drama", "Romance"],
+      "Language": "English",
+      "ProductionCompanies": ["New Line Cinema", "Watermark Films"],
+      "Awards": [
+        "Nominated for 1 Golden Globe",
+        "Teen Choice Award for Best Romance Movie"
+      ],
+      "Rating": {
+        "IMDb": "7.8/10",
+        "RottenTomatoes": "53%"
+      }
+    }
+  ]
+  
